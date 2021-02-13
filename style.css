@@ -1,0 +1,62 @@
+body {
+    background-color: #edf6f9;
+    display: grid;
+    justify-content: center;
+}
+
+h1 {
+    color: #006d77;
+    font-size: 65px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+}
+
+#textEntry {
+    width: 50em;
+    height: 25em;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #ffddd2;
+    color: #83c5be;
+    font-family: 'Averia Libre', cursive;
+    font-size: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 4px #cccc;
+}
+
+#entryForm #button {
+    border: none;
+    border-radius: 7px;
+    background-color: #83c5be;
+    color: #ffddd2;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 90%;
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#entries {
+    margin-top: 25px;
+    max-width: 50em;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    padding: 30px;
+    background-color: #006d77;
+    font-family: 'Merienda One', cursive;
+    font-size: 20px;
+    box-shadow: 2px 4px #cccc;
+}
+
+.buttons {
+    border: none;
+    border-radius: 7px;
+    background-color: #ffddd2;
+    color: #501c04;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    margin: 1em;
+}
